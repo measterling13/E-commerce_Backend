@@ -10,6 +10,10 @@
   ## Videos
   category routes demod: https://drive.google.com/file/d/13KVSPrIkVrl4Q1v2U0cAIrVMYGjSZJ0o/view
   
+  Product routes demod: https://drive.google.com/file/d/1TkL06LnDdlYjadSyzO_-rnWeoOo9iFV4/view
+  
+  Tag routes demod: 
+  
   
   ## Usage
   this is just a show of backend work for an ecommerce shop along request to be submitted

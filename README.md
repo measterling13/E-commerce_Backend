@@ -7,7 +7,7 @@
   next run node seeds to seed the database
   next run node server.js to then open the port and be able to run insomnia to test out routes
   
-  ##Videos
+  ## Videos
   category routes demod: https://drive.google.com/file/d/13KVSPrIkVrl4Q1v2U0cAIrVMYGjSZJ0o/view
   
   
